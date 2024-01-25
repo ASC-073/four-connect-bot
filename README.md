@@ -26,3 +26,9 @@ Evaluation function (iii) is optimal for our needs, and we even see that we win 
 Implemented alpha-beta pruning as well, but since it only affects time taken by the algorithm and not wins, didn’t include it in the table.
 
 **Move Ordering Heuristic**: Using a simple move ordering such that the bot prefers putting a coin somewhere in the center than the corner (i.e. most weight to center, depreciating weight linearly as we go to corners) improves the time taken by bot to win against the myopic player.
+
+**Scope of Improvement**:
+
+	(i) Increasing reusability using Object Oriented Programming and Modularity
+ 	(ii) Further optimal evaluation function and move ordering heuristics to decrease number of moves to win and increase win rate.
+  	(iii) Introducing reinforcement learning to enhance the bot's optimisation of strategies and exploration of game strategies.
