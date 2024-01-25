@@ -1,4 +1,7 @@
 # four-connect-bot
+
+**Acknowledgements**: Thanking Dr. Sujith Thomas and the Teaching Assistants for Artificial Intelligence (CS F407) course for designing and guiding in the completion of the assignment.
+
 The project was part of the course Artificial Intelligence (CS F407), entirely using Python. Various evaluation functions were tried out to minimise the number of moves taken by the bot to win and win rate. Move ordering heuristic was implemented along with Alpha-Beta pruning to improve efficiency.
 
 **Problem Statement**: Given a myopic opponent player’s code and a test case ongoing game, create a bot that succeeds the test case using evaluation functions, move ordering heuristics and alpha-beta pruning.
