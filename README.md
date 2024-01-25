@@ -33,5 +33,7 @@ Implemented alpha-beta pruning as well, but since it only affects time taken by 
 **Scope of Improvement**:
 
 	(i) Increasing reusability using Object Oriented Programming and Modularity
+ 
  	(ii) Further optimal evaluation function and move ordering heuristics to decrease number of moves to win and increase win rate.
+  
   	(iii) Introducing reinforcement learning to enhance the bot's optimisation of strategies and exploration of game strategies.
